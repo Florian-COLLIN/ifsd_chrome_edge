@@ -4,7 +4,11 @@
     "version": "0.0.1",
     "description": "Une page de recherche pour la IFSD",
     "action": {
-        "default_popup": "popup.html"
-    },
-    "version_name": "0.0.1"
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon16.png",
+            "24": "images/icon24.png",
+            "32": "images/icon32.png"
+        },
+    }
 }
