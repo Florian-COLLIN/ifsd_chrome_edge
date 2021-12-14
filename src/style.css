@@ -6,6 +6,7 @@ h1 {
     font-size: 2rem;
     font-family: "Century Schoolbook";
     align-content: center;
+    text-transform: uppercase;
 }
 div.gcse-search {
     min-height: 400px;
