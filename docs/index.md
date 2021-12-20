@@ -1,6 +1,6 @@
 # IFSD Search
 
-L'IFSD Search est une extension développé par l'équipe de la IFSD, qui vous propose de rechercher une page à nous directement sur Google Chrome ou Microsoft Edge.
+L'IFSD Search est une extension développé par l'équipe du site de la IFSD, qui vous propose de rechercher une page du site directement sur votre navigateur Google Chrome, Microsoft Edge ou encore Mozilla Firefox.
 
 ## Documentation
 - [Comment installer](/ifsd_chrome_edge/docs/fr/how-to-install) ?
