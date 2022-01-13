@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "IFSD Search",
+        "description": "Nom de l'extension."
+    },
+    "extDescription": {
+        "message": "Moteur de recherche automatique sur le site IFSD Series.",
+        "description": "Description de l'extension."
+    }
+}
