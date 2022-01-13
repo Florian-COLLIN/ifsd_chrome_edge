@@ -5,9 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
+- i18n : english and french.
 
 ### Changed
-- Graphic charter changed.
+- Graphic charter changed ;
+- Moved manifest v2 to manifest v3 for Chrome and Edge.
 
 ### Fixed
 - Small place displaying the results.
