@@ -16,3 +16,19 @@ p {
 div.gcse-search {
     min-height: 400px;
 }
+div.about {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+.bold {
+    font-weight: bold;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+td.bold {
+    text-align: left;
+}
