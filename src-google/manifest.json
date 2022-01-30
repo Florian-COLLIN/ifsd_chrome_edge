@@ -2,10 +2,11 @@
     "manifest_version": 3,
     "name": "__MSG_extName__",
     "description": "__MSG_extDescription__",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage_url": "https://florian-collin.github.io/ifsd_chrome_edge/",
     "author": "Florian COLLIN",
     "default_locale": "en",
+    "version_name": "0.0.3-alpha",
     "action": {
         "default_popup": "popup.html"
     },
