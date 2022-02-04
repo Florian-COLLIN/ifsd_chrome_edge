@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "IFSD Search",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Automatic search engine on the IFSD Series website.",
     "homepage_url": "https://florian-collin.github.io/ifsd_chrome_edge/",
     "author": "Florian COLLIN",
