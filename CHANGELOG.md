@@ -5,8 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
+- about.html page with extension version and extension description.
 
 ### Changed
+- style.css for about.html page ;
+- Added "version_name" in the manifest for the alpha and beta version.
 
 ### Fixed
 - [#1] Compatibility with Firefox.
