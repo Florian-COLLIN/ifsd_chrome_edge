@@ -8,8 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - about.html page with extension version and extension description.
 
 ### Changed
+- Name of extension : "IFSD Search" > "In France Series Database Search" ;
 - style.css for about.html page ;
-- Added "version_name" in the manifest for the alpha and beta version.
+- Added "version_name" in the manifest for the alpha and beta version ;
+- Added "short_name" in the manifest.
 
 ### Fixed
 
