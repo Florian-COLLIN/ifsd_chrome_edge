@@ -7,6 +7,7 @@
     "author": "Florian COLLIN",
     "default_locale": "en",
     "version_name": "0.0.3-alpha",
+    "short_name": "IFSD Search",
     "action": {
         "default_popup": "popup.html"
     },
