@@ -1,0 +1,4 @@
+ul.header-link li.light-blue-frame,
+ul.header-link li.orange-frame {
+    display: none;
+}
