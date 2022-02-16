@@ -5,13 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- about.html page with extension version and extension description.
+- about.html page with extension version and extension description ;
+- ifsd-style.css for hide "Download extension for Microsoft Edge" and for Fireofx.
 
 ### Changed
 - Name of extension : "IFSD Search" > "In France Series Database Search" ;
 - style.css for about.html page ;
 - Added "version_name" in the manifest for the alpha and beta version ;
-- Added "short_name" in the manifest.
+- Added "short_name" in the manifest ;
+- Added link towards ifsd-style.css in the manifest.
 
 ### Fixed
 
