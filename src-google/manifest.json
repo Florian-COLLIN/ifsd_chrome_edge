@@ -2,11 +2,11 @@
     "manifest_version": 3,
     "name": "__MSG_extName__",
     "description": "__MSG_extDescription__",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "homepage_url": "https://florian-collin.github.io/ifsd_chrome_edge/",
     "author": "Florian COLLIN",
     "default_locale": "en",
-    "version_name": "0.0.3-alpha",
+    "version_name": "0.1.0-alpha",
     "short_name": "IFSD Search",
     "action": {
         "default_popup": "popup.html"
@@ -15,5 +15,15 @@
         "16": "images/icon16.png",
         "48": "images/icon48.png",
         "128": "images/icon128.png"
-    }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://ifsd.netlify.app/*"
+            ],
+            "css": [
+                "ifsd-style.css"
+            ]
+        }
+    ]
 }
