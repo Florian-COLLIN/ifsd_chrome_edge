@@ -6,7 +6,7 @@
     "homepage_url": "https://florian-collin.github.io/ifsd_chrome_edge/",
     "author": "Florian COLLIN",
     "default_locale": "en",
-    "version_name": "0.1.0-alpha",
+    "version_name": "0.1.0-alpha Build 10",
     "short_name": "IFSD Search",
     "action": {
         "default_popup": "popup.html"
